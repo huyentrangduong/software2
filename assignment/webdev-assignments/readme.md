@@ -1,6 +1,6 @@
 # Software 2 - Web development assignments
 
-**Your Name**
+**Huyen Trang Duong**
 
 One folder per module, and one folder per assignment inside it (`js-1-2/assignment-1/assignment-1.html` and `assignment-1.js`; JS module 4 uses the starter ZIP's names),
 as the course material asks. Upload the module folders to users.metropolia.fi and push this folder to GitHub.
