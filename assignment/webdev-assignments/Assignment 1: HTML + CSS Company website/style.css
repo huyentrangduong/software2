@@ -19,20 +19,20 @@ body {
     position:sticky;
 }
 
-.navbar-img{
+.navbar-img img{
     display: flex;
     align-items: center;
     justify-content: space-between;
     /*padding: 10px 10px;*/
-    margin-top:10px;
-    margin-right:10px;
-    margin-left:0px;
-    margin-right:10px;
-    border-radius: 15px;
-    width: 200%;
-    height: 85px;
-
+    margin-left: 0px;
+    margin-right: 3px;
+    margin-top: 10px;
+    margin-bottom: 3px;
+    width: 120%;
+    height: 80px;
 }
+
+
 /* logo and shop name*/
 .logo {
     display: flex;
@@ -85,23 +85,37 @@ body {
 
 } 
 
-.banner-img {
+.banner-content video {
+    width: 100%;
+    height: 550px;
+
+}
+.mainpage img{
     display: flex;
-    background-color: #F3E8FF;
-    flex-wrap: wrap;
+    /*background-color: #6B3F7A;*/
+    /*flex-wrap: wrap;*/
     margin-top: 10px;
     margin-bottom: 10px;
     width: 100%;
-    height: 530px;
+    height: 600px;
     border-radius: 15px;
 }
-.banner1 p {
+
+.mainpage h3{
     font-family:Arial, Helvetica, sans-serif;
     color:#ad3092;
     text-align: center; 
     font-size: 16px;
     line-height: 0.5;
 }
+
+.banner1 h2 {
+    font-family: "Italianno",cursive;
+    color:#ad3092;
+    text-align: center; 
+    font-size: 20px;
+}
+
 
 .banner2 p {
     font-family:Arial, Helvetica, sans-serif;
@@ -119,13 +133,25 @@ body {
     line-height: 0.05;
 
 }
+.products h3 {
+    text-align: center; 
+    color:#d3c6d7;
+    font-size: 20px;
+}
+.products h2 {
+    text-align: center; 
+    color:#6B3F7A;
+    font-size: 20px;
 
+}
 .products {
     display: flex;
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
+
 }
+
 .product-card {
     display: flex;
     flex-direction: column;
