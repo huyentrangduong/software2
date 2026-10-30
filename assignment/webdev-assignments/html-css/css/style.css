@@ -132,24 +132,25 @@ body {
 }
 .products h3 {
     text-align: center; 
-    color:#d3c6d7;
+    color:#ad3092;
     font-size: 20px;
 }
+
 .products h2 {
     text-align: center; 
     color:#6B3F7A;
     font-size: 20px;
 
 }
-.products {
+
+.product-card {
     display: flex;
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
-
 }
 
-.product-card {
+.product-card div {
     display: flex;
     flex-direction: column;
     background-color: #F3E8FF;
