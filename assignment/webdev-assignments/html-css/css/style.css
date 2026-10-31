@@ -1,7 +1,8 @@
 body {
-    background-image: URL("./Image-video/Dreamy Lavender Floral Banner.png");
+    background-image: URL("../Image-video/Dreamy.png");
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
@@ -131,12 +132,14 @@ body {
 
 }
 .products h3 {
+    font-family:'Courier New', Courier, monospace;
     text-align: center; 
     color:#ad3092;
     font-size: 20px;
 }
 
 .products h2 {
+    font-family:'Courier New', Courier, monospace;
     text-align: center; 
     color:#6B3F7A;
     font-size: 20px;
@@ -220,7 +223,7 @@ body {
 }
 
 .contact h3 {
-    font-family: Arial, Helvetica,bold ,sans-serif;
+    font-family:'Courier New', Courier, monospace;
     color:#6B3F7A;
     text-align: left; 
     font-size: 20px;
@@ -230,7 +233,7 @@ body {
 }
 
 .contact p {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Courier New', Courier, monospace;
     color:#6B3F7A;
     text-align: left; 
     font-size: 18px;
@@ -239,7 +242,7 @@ body {
 
 }
 .contact a {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Courier New', Courier, monospace;
     color:#6B3F7A;
     text-align: left; 
     font-size: 18px;
