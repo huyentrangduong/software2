@@ -88,11 +88,9 @@ body {
 
 } 
 
-.banner-content img {
+.banner-content video {
     width: 100%;
-    height: 580px;
-    object-fit: cover;
-    border-radius: 15px;
+    height: 550px;
 
 }
 .mainpage img{
