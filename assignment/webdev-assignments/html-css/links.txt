@@ -1,3 +1,3 @@
-HTML assignment report: https://fip-86-50-23-71.kaj.poutavm.fi/results/ddefe8aa-fe4d-444a-b9d4-c65dc8e32614/
-
-github: https://github.com/huyentrangduong/software2/tree/main/assignment/webdev-assignments/html-css
+https://huyentrangduong.github.io/cozy-home-decor/
+https://github.com/huyentrangduong/software2/tree/main/assignment/webdev-assignments/html-css
+https://huyentrangduong.github.io/software2/assignment/webdev-assignments/html-css/screenshots.html
