@@ -10,7 +10,6 @@ if (answer) {
     } else {
         result = Math.sqrt(number);
     }
-
 } else {
     result = "The square root is not calculated.";
 }
