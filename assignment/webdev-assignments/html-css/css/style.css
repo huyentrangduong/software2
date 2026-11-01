@@ -176,10 +176,10 @@ body {
 
 .product-card img {
     width: 100%;
-    height: 350px;
     object-fit: cover;
     margin-top: 10px;
     margin-bottom: 10px;
+    height: auto;
 }
 
 .product-card p {
