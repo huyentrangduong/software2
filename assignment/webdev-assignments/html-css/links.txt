@@ -1,3 +1,3 @@
-https://huyentrangduong.github.io/cozy-home-decor/
-https://huyentrangduong.github.io/cozy-home-decor/screenshots.html
+https://huyentrangduong.github.io/cozy-home-decor/html-css/
+https://huyentrangduong.github.io/cozy-home-decor/html-css/screenshots.html
 https://github.com/huyentrangduong/software2/tree/main/assignment/webdev-assignments/html-css
