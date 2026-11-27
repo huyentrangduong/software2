@@ -1,4 +1,1 @@
-
-https://github.com/huyentrangduong/webdev-assignments/tree/main/js-5
-https://github.com/huyentrangduong/software2/tree/main/assignment/webdev-assignments/js-5
-https://github.com/huyentrangduong/webdev-assignments/tree/main/js-5
+https://github.com/huyentrangduong/webdev-assignments
